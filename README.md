@@ -18,8 +18,9 @@
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
       </div>
+    <div>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668c22e7501413692b045cf1?variant=dark" alt="roadmap.sh"/></a>
+    </div>
   </div>
-
-  
 </body>
 </html>
