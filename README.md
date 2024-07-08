@@ -3,7 +3,7 @@
 </head>
 <body>
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif">
+          <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668c22e7501413692b045cf1?variant=dark" alt="roadmap.sh"/></a>
     <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -18,9 +18,6 @@
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
       </div>
-    <div>
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668c22e7501413692b045cf1?variant=dark" alt="roadmap.sh"/></a>
-    </div>
   </div>
 </body>
 </html>
