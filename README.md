@@ -10,14 +10,14 @@
 - 📄  [Know about my experiences](https://samuelouda.github.io/Portfolio/docs/Samuel%20Lwanga%20CV.pdf)
 
 - ⚡ **I think I'm funny 😂**
-- 🎥  Youtube [Tutorials](https://www.youtube.com/c/techtutstherapy)
+- 🎥  Youtube [Tutorials](https://www.youtube.com/@techtutstherapy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/babylilboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="babylilboss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lwangasamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lwangasamuel" height="30" width="40" /></a>
 <a href="https://instagram.com/lilboss.baby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lilboss.baby" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techtutstherapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techtutstherapy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@techtutstherapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techtutstherapy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
