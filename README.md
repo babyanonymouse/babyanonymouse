@@ -17,68 +17,68 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=babyanonymouse&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🧐 About Me
-
-- 🔭 **Current Focus:** Building **PeoLabs Co.**
-  - *Projects:* **Kuza Beyond** (Fintech for micro-traders) & **Evuka** (AI-driven LMS).
-  - *Goal:* Creating scalable, production-ready backend architectures.
-
-- 🌱 **Currently Learning:**
-  - Advanced **RAG pipelines** & Agentic AI workflows.
-  - **DevOps:** Docker, Linux VPS deployment, and System Design.
-
-- ⚡ **Philosophy:** I design my development environments around a **"Controlled Chaos"** philosophy — optimized for focus, speed, and flexibility (Zero-Drag).
-
-- 👯 **Collaborate With Me:** I'm open to open-source or startup projects in **EdTech, FinTech, or Developer Tools**.
-
-- 📫 **Reach Me:** [linktr.ee/Samuel_Lwanga](https://linktr.ee/Samuel_Lwanga)
+I design **scalable, production-ready web systems** around a **"Controlled Chaos" philosophy**, optimized for **focus, speed, and flexibility**.  
+Founder of **PeoLabs Co.**, where we build tools with **real-world impact** and a “Zero-Drag” approach.
 
 ---
 
-### 🛠 Languages & Tools
+### 🔭 Current Focus
+- **PeoLabs Co.** — building practical systems that scale
+- Projects: **Kuza Beyond** (Fintech for micro-traders) & **Evuka** (AI-driven LMS)
+- Goal: Clean, production-ready backend architectures
 
+---
+
+### 🌱 Currently Learning
+- Advanced **RAG pipelines** & agentic AI workflows  
+- **DevOps & System Design:** Docker, Linux VPS, CI/CD  
+
+---
+
+### 🛠 Tech Stack
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,javascript,figma" alt="Frontend" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=django,python,nodejs,postman" alt="Backend" />
-  <br/><br/>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,javascript,figma" alt="Frontend" />  
 
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,bash" alt="DevOps" />
+**Backend**  
+<img src="https://skillicons.dev/icons?i=django,python,nodejs,postman" alt="Backend" />  
+
+**DevOps / Tools**  
+<img src="https://skillicons.dev/icons?i=linux,docker,git,bash" alt="DevOps" />  
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/babyanonymouse">
-    <img src="https://github-readme-stats.vercel.app/api?username=babyanonymouse&show_icons=true&locale=en&theme=transparent&hide_border=true" height="160" alt="stats" />
-  </a>
-  <a href="https://github.com/babyanonymouse">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babyanonymouse&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" height="160" alt="languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babyanonymouse&theme=transparent&hide_border=true" alt="streak" />
-</div>
+### 👯 Collaborate With Me
+I'm open to **EdTech, FinTech, or Developer Tools projects** that emphasize impact and scalability.
 
 ---
 
-<h3 align="center">Connect with me</h3>
+### 📫 Reach Me
+[linktr.ee/Samuel_Lwanga](https://linktr.ee/Samuel_Lwanga)
+
+---
+
+### 🔗 Connect with Me
 <p align="center">
-<a href="https://github.com/babyanonymouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="babyanonymouse" height="30" width="40" /></a>
-<a href="https://dev.to/babyanonymouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="babyanonymouse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lwangasamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lwangasamuel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anonymouse-baby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anonymouse-baby" height="30" width="40" /></a>
-<a href="https://twitter.com/BabyLilboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BabyLilboss" height="30" width="40" /></a>
+  <a href="https://github.com/babyanonymouse" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/babyanonymouse" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/lwangasamuel" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/anonymouse-baby" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/BabyLilboss" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
 </p>
