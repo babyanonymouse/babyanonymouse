@@ -32,10 +32,13 @@ Founder of **PeoLabs Co.**, where we build tools with **real-world impact** and 
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **RAG pipelines** & agentic AI workflows  
-- **DevOps & System Design:** Docker, Linux VPS, CI/CD  
+### 🚀 Leading Projects
 
+| Project | Status | Description | Stack |
+| :--- | :--- | :--- | :--- |
+| **Kuza Beyond** | ![Dev](https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square) | Fintech for micro-traders. Replaces paperwork with "hustle-based" credit scoring. | `Django` `React` `Fintech` |
+| **Evuka LMS** | ![Beta](https://img.shields.io/badge/Status-Beta-blue?style=flat-square) | AI-driven LMS bridging theory vs. practice. Features a **RAG + Agentic** tutor. | `Python` `AI Agents` `Docker` |
+| **PeoLabs Core** | ![Live](https://img.shields.io/badge/Status-Live-success?style=flat-square) | The "Zero-Drag" infrastructure powering our automated deployments. | `Linux` `Bash` `CI/CD` |
 ---
 
 ### 🛠 Tech Stack
